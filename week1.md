@@ -24,7 +24,7 @@
 - GOAL: to be able to have a cooperative pairing session
 - PLAN: read the informative about the pairing to do and to do not
 - ACHIEVED: both my peer and me had 25 min work through our challenge followed by 5 min break and swapped roles regularly
-
+-----
 - GOAL: to be able to test methods and classes
 - PLAN: go through Testing Methods and Testing Classes with Equality
 - ACHIEVED: learned first by try and error, then getting my pair help and doing research, only if very stuck have a look at solution and understand how and why.
