@@ -28,13 +28,14 @@
 - GOAL: to be able to test methods and classes
 - PLAN: go through Testing Methods and Testing Classes with Equality
 - ACHIEVED: learned first by try and error, then getting my pair help and doing research, only if very stuck have a look at solution and understand how and why.
+- EVIDENCE: 
 
 #### Wednesday 15th February
 - GOAL: learn how to record myself while coding 
 - PLAN: read tips and ask help if needed
-- ACHIEVED:
+- EVIDENCE:
 
 -----
 - GOAL: to learn more about debugging and continue with Golden Square challenges
 - PLAN: attend workshop and work on it as soon as I have the time
-- ACHIEVED:
+- EVIDENCE:
