@@ -27,15 +27,24 @@
 -----
 - GOAL: to be able to test methods and classes
 - PLAN: go through Testing Methods and Testing Classes with Equality
-- ACHIEVED: learned first by try and error, then getting my pair help and doing research, only if very stuck have a look at solution and understand how and why.
-- EVIDENCE: 
+- ACHIEVED: learned first by try and error, then getting my pair help and doing research, only if very stuck have a look at solution and understand how and why. 
 
 #### Wednesday 15th February
 - GOAL: learn how to record myself while coding 
 - PLAN: read tips and ask help if needed
-- EVIDENCE:
+- EVIDENCE: read how to use zoom to record ourselves and I will be doing it tomorrow with a Challenge about Design a Single-Method Program
 
 -----
 - GOAL: to learn more about debugging and continue with Golden Square challenges
 - PLAN: attend workshop and work on it as soon as I have the time
+- EVIDENCE: whatched some tutorials when I needed to understand something and finished the first exercise about Design Methods. 
+
+#### Thursday 16th February
+- GOAL: record myself while coding and finish Design Methods 
+- PLAN: go through the two exercises left for Design Methods
+- EVIDENCE:
+
+-----
+- GOAL: learn some more debugging
+- PLAN: practice with given exercises
 - EVIDENCE:
