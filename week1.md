@@ -30,6 +30,11 @@
 - ACHIEVED: learned first by try and error, then getting my pair help and doing research, only if very stuck have a look at solution and understand how and why.
 
 #### Wednesday 15th February
-- GOAL:
-- PLAN:
+- GOAL: learn how to record myself while coding 
+- PLAN: read tips and ask help if needed
+- ACHIEVED:
+
+-----
+- GOAL: to learn more about debugging and continue with Golden Square challenges
+- PLAN: attend workshop and work on it as soon as I have the time
 - ACHIEVED:
