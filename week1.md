@@ -42,9 +42,18 @@
 #### Thursday 16th February
 - GOAL: record myself while coding and finish Design Methods 
 - PLAN: go through the two exercises left for Design Methods
-- EVIDENCE:
+- EVIDENCE: not yet achieved, working on it. I worked with Josh on one of the Design Methods and [here](https://github.com/ValeSer/Golden_square_with_Josh) is the repo 
 
 -----
 - GOAL: learn some more debugging
 - PLAN: practice with given exercises
-- EVIDENCE:
+- EVIDENCE: I have practiced to debug my own code but still have to work on the given execises a bit better on my own.
+
+#### Friday 17th February
+- GOAL: be able to follow a good process of Design Methods 
+- PLAN: go through the left exercise for Design Methods and record myself
+- EVIDENCE: 
+
+- GOAL: start Design Classes 
+- PLAN: go ahead with Golden Squares materials
+- EVIDENCE: 
