@@ -52,8 +52,8 @@
 #### Friday 17th February
 - GOAL: be able to follow a good process of Design Methods 
 - PLAN: go through the left exercise for Design Methods and record myself
-- EVIDENCE: 
+- EVIDENCE: Sent my recording to the coach and got my feedback
 
 - GOAL: start Design Classes 
 - PLAN: go ahead with Golden Squares materials
-- EVIDENCE: 
+- EVIDENCE: Not achieved yet, as I preferred to focus on debugging and make some Hashes Katas
