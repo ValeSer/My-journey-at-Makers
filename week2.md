@@ -23,17 +23,17 @@
 #### Monday 20th February
 - GOAL: learn how to test drive a single class
 - PLAN: go through the exercises Test Drive a Single-Class Program
-- EVIDENCE: 
+- EVIDENCE: worked in pairs with Sonjay and made a repo, which shows we still need practice with GitHub project in pairs
 
 -----
 - GOAL: Learn some more on navigator/driver pairing work
-- PLAN: Read again instructions and discuss with my peer befor starting
-- EVIDENCE: 
+- PLAN: Read again instructions and discuss with my peer before starting
+- EVIDENCE: Discussed about it with Sonjay and tried to work at the same repo. Still more to learn.
 
 #### Tuesday 21st February
-- GOAL: 
-- PLAN: 
-- ACHIEVED: 
+- GOAL: learn more on how to test drive a single class
+- PLAN: go through the exercises Test Drive a Single-Class Program
+- EVIDENCE: worked in pairs with Sonjay a bit in the morning and attended workshop about Test-driving a single class
 -----
 - GOAL: 
 - PLAN: 
