@@ -35,9 +35,9 @@
 - PLAN: go through the exercises Test Drive a Single-Class Program
 - EVIDENCE: worked in pairs with Sonjay a bit in the morning and attended workshop about Test-driving a single class
 -----
-- GOAL: 
-- PLAN: 
-- ACHIEVED: 
+- GOAL: Practice test drive a single class
+- PLAN: Work in pairs on Diary entry challenge
+- EVIDENCE: Worked with Destin on his repo, link [here] https://github.com/Destinek/golden_square
 
 #### Wednesday 22nd February
 - GOAL: 
