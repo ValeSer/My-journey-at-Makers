@@ -52,7 +52,7 @@
 #### Friday 17th February
 - GOAL: be able to follow a good process of Design Methods 
 - PLAN: go through the left exercise for Design Methods and record myself
-- EVIDENCE: Sent my recording to the coach and got my feedback
+- EVIDENCE: Sent my recording to the coach and got my feedback. Video here:
 
 - GOAL: start Design Classes 
 - PLAN: go ahead with Golden Squares materials
