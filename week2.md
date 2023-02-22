@@ -40,8 +40,8 @@
 - EVIDENCE: Worked with Destin on his repo, link [here] https://github.com/Destinek/golden_square
 
 #### Wednesday 22nd February
-- GOAL: 
-- PLAN: 
+- GOAL: go ahead with materials to next step
+- PLAN: work on Grammar Stats challenge
 - EVIDENCE: 
 
 -----
