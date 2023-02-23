@@ -42,21 +42,21 @@
 #### Wednesday 22nd February
 - GOAL: go ahead with materials to next step
 - PLAN: work on Grammar Stats challenge
-- EVIDENCE: 
+- EVIDENCE: Challenge completed 
 
 -----
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: learn some more debugging
+- PLAN: go through 07 debugging 
+- EVIDENCE: worked on pairs with Callum and learned a couple of tricks, like using "binding.irb"inside the code
 
 #### Thursday 23rd February
-- GOAL: 
-- PLAN: 
+- GOAL:  Goin on with design a class with the challenge Design-a Single-Class Program
+- PLAN: Record myself doing the challenge to be sent to our coaches
 - EVIDENCE: 
 
 -----
-- GOAL: 
-- PLAN: 
+- GOAL: Start 08 Test drive multiple classes
+- PLAN: do Music Library exercise
 - EVIDENCE: 
 
 #### Friday 24th February
