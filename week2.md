@@ -52,19 +52,19 @@
 #### Thursday 23rd February
 - GOAL:  Goin on with design a class with the challenge Design-a Single-Class Program
 - PLAN: Record myself doing the challenge to be sent to our coaches
-- EVIDENCE: 
+- EVIDENCE: Sent the video and got feedback from one of the coaches: I did well the most important steps, there is thoug, some more room for learning, for example I need to be 100% happy with my tests before starting to implement the code. 
 
 -----
 - GOAL: Start 08 Test drive multiple classes
 - PLAN: do Music Library exercise
-- EVIDENCE: 
+- EVIDENCE: Worked in pairs with Sonjay, whatched together Kay video on how to test drive a system of classes and started the Diary?Diary-entry exercise.
 
 #### Friday 24th February
-- GOAL: 
-- PLAN: 
+- GOAL: Finish chapter 8, go through the 9th Design Class System 
+- PLAN: Work solo, complete challenges given
 - EVIDENCE: 
 
 -----
-- GOAL: 
-- PLAN: 
+- GOAL: have a general understanding of Mocking bites
+- PLAN: if I have time, have a look at the phase 3 material 
 - EVIDENCE: 
