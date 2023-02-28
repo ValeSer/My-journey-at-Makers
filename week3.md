@@ -25,9 +25,18 @@ Link to my Databases repo [here](https://github.com/ValeSer/Databases)
 #### Monday 27th February
 - GOAL: Learn SQL bites
 - PLAN: Go through the material and learn how to setup PostgreSQL and use SQL to read and manipulate data stored in an existing database.
-- EVIDENCE: 
+- EVIDENCE: Finished the Phase One: Sql bites
 
 -----
 - GOAL: Improve pairing work
 - PLAN: Work with someone this afternoon
+- EVIDENCE: Worked with Fiona and Switched roles very often to alloew both of us to practice using psql
+
+#### Tuesday 28st February
+- GOAL: Practice Sql
+- PLAN: go through the exercises of Phase 2
 - EVIDENCE: 
+-----
+- GOAL: Improve pairing work
+- PLAN: Work with someone this afternoon
+- EVIDENCE:
