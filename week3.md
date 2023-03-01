@@ -35,8 +35,14 @@ Link to my Databases repo [here](https://github.com/ValeSer/Databases)
 #### Tuesday 28st February
 - GOAL: Practice Sql
 - PLAN: go through the exercises of Phase 2
-- EVIDENCE: 
+- EVIDENCE: Worked solo and created this repo [here](https://github.com/ValeSer/Music_library)
+
+#### Wednesday 1st March
+- GOAL: be able to test-drive a Repository class
+- PLAN: work through the Exercise AlbumRepository and the book_store challenge
+- EVIDENCE:
+
 -----
-- GOAL: Improve pairing work
-- PLAN: Work with someone this afternoon
+- GOAL: learn more about Empathy/cohort Reflective
+- PLAN: attend EQ workshop
 - EVIDENCE:
