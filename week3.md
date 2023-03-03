@@ -39,10 +39,29 @@ Link to my Databases repo [here](https://github.com/ValeSer/Databases)
 
 #### Wednesday 1st March
 - GOAL: be able to test-drive a Repository class
-- PLAN: work through the Exercise AlbumRepository and the book_store challenge
-- EVIDENCE:
+- PLAN: work through the Exercise AlbumRepository 
+- EVIDENCE: Done AlbumRepository
 
 -----
 - GOAL: learn more about Empathy/cohort Reflective
 - PLAN: attend EQ workshop
+- EVIDENCE: attended 
+
+#### Thursday 2nd March
+- GOAL: be able to test-drive and design a Repository class
+- PLAN: work through the book_store challenge
+- EVIDENCE: Done AlbumRepository
+
+-----
+- GOAL: be able to design a schema with one table
+- PLAN: work in pairs
+- EVIDENCE: worked with Paul Lazar, lin to repo [here](https://github.com/ValeSer/Recipes_directory)
+
+#### Friday 3rd March
+- GOAL: be able to design a schema with two tables
+- PLAN: work through the Designing a schema with two tables material
+- EVIDENCE: 
+-----
+- GOAL: be able to design a diagnam 
+- PLAN: work through the Creating a sequence diagram for a database-backed program
 - EVIDENCE:
