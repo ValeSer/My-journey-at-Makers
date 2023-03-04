@@ -60,8 +60,13 @@ Link to my Databases repo [here](https://github.com/ValeSer/Databases)
 #### Friday 3rd March
 - GOAL: be able to design a schema with two tables
 - PLAN: work through the Designing a schema with two tables material
-- EVIDENCE: 
+- EVIDENCE: created two tables for the blog database
 -----
 - GOAL: be able to design a diagnam 
 - PLAN: work through the Creating a sequence diagram for a database-backed program
-- EVIDENCE:
+- EVIDENCE: finished a diagram and sent to coaches with explanation to get a feedback
+
+#### Weekend 
+- GOAL: Test my understanding an learning so far
+- Plan: Attempt shop manager challenge 
+- EVIDENCE: Shop-manager-challenge link [here](https://github.com/ValeSer/shop-manager-challenge)
