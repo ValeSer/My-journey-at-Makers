@@ -19,6 +19,7 @@ Solo challenge at the end of the week.
 
 #### Evidence
 Link to my Databases repo [here](https://github.com/ValeSer/Databases)
+Shop-manager-challenge link [here](https://github.com/ValeSer/shop-manager-challenge)
 
 ## Daily Goals
 
