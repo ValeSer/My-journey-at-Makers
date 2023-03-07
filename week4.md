@@ -29,9 +29,19 @@ Shop-manager-challenge link [here](https://github.com/ValeSer/shop-manager-chall
 #### Monday 6th March
 - GOAL: Introduction to HTTP.
 - PLAN: Go through the exercises and learn about the HTTP protocol and the Request and Response flow between a client and a server.
-- EVIDENCE: My repo for pracice [here](https://github.com/ValeSer/HTTP)
+- EVIDENCE: My repo for practice [here](https://github.com/ValeSer/HTTP)
 
 -----
 - GOAL: Improve pairing work
 - PLAN: Work with someone this afternoon
-- EVIDENCE: 
+- EVIDENCE: worked with Chang and learned how to test drive a route
+
+#### Tuesday 7th March
+- GOAL: Creating a sequence diagram for a web application
+- PLAN: Go through the exercises 
+- EVIDENCE: My repo for practice [here](https://github.com/ValeSer/HTTP)
+
+-----
+- GOAL: Test-driving CRUD routes
+- PLAN: Work on it with someone this afternoon
+- EVIDENCE:
