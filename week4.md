@@ -44,4 +44,34 @@ Shop-manager-challenge link [here](https://github.com/ValeSer/shop-manager-chall
 -----
 - GOAL: Test-driving CRUD routes
 - PLAN: Work on it with someone this afternoon
+- EVIDENCE: worked with Chang 
+
+#### Wednesday 8st March
+- GOAL: be able to Use ERB to return dynamic HTML
+- PLAN: work through the Exercises
+- EVIDENCE: worked with Dilan Patel repo [here](https://github.com/ValeSer/web-applications/commits/main)
+
+
+#### Thursday 9th March
+- GOAL: be able to use links to send GET requests
+- PLAN: work through the material
+- EVIDENCE: 
+
+-----
+- GOAL: be able to use forms to send POST request
+- PLAN: work in pairs
+- EVIDENCE: 
+
+#### Friday 10th March
+- GOAL: be able to 
+- PLAN: work through the 
+- EVIDENCE: 
+-----
+- GOAL: be able to 
+- PLAN: work through 
+- EVIDENCE: 
+
+#### Weekend 
+- GOAL: Test my understanding an learning so far
+- Plan: Attempt Chitter challenge 
 - EVIDENCE:
