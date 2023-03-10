@@ -55,20 +55,20 @@ Shop-manager-challenge link [here](https://github.com/ValeSer/shop-manager-chall
 #### Thursday 9th March
 - GOAL: be able to use links to send GET requests
 - PLAN: work through the material
-- EVIDENCE: 
+- EVIDENCE: Went through the material and made some exercises with a final recording while explaining the diagram of what I did
 
 -----
 - GOAL: be able to use forms to send POST request
 - PLAN: work in pairs
-- EVIDENCE: 
+- EVIDENCE: Not achieved yet
 
 #### Friday 10th March
-- GOAL: be able to 
-- PLAN: work through the 
-- EVIDENCE: 
+- GOAL: be able to use forms to send POST request
+- PLAN: work on Test-driving a form
+- EVIDENCE:
 -----
-- GOAL: be able to 
-- PLAN: work through 
+- GOAL: be able to follow the right process for Debugging a web app
+- PLAN: work through the given exercises
 - EVIDENCE: 
 
 #### Weekend 
