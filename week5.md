@@ -12,3 +12,9 @@ I learned:
 + more about myself: what I need to work in a group, both from myself and from the group.
 + the importance of well defined tasks and a good organisation.
 + communication is the key, always. It's crucial to understand other members needs before starting to work together.
+
+
+#### Weekend 
+- GOAL: Test my understanding an learning so far
+- Plan: Attempt Bowling in ruby challenge 
+- EVIDENCE: repo [here](https://github.com/ValeSer/bowling-challenge-ruby)
