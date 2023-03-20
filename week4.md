@@ -65,13 +65,10 @@ Shop-manager-challenge link [here](https://github.com/ValeSer/shop-manager-chall
 #### Friday 10th March
 - GOAL: be able to use forms to send POST request
 - PLAN: work on Test-driving a form
-- EVIDENCE:
+- EVIDENCE: went through the material
 -----
-- GOAL: be able to follow the right process for Debugging a web app
-- PLAN: work through the given exercises
-- EVIDENCE: 
 
 #### Weekend 
 - GOAL: Test my understanding an learning so far
 - Plan: Attempt Chitter challenge 
-- EVIDENCE:
+- EVIDENCE: repo [here](https://github.com/ValeSer/chitter-challenge)
