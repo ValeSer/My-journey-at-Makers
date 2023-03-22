@@ -29,8 +29,8 @@ Working through challenges designed to help you learn how to use JavaScript in a
 
 
 #### Wednesday 22nd March
-- GOAL: 
-- PLAN: 
+- GOAL: start chanllenges on phase 2 
+- PLAN: go through the material
 - EVIDENCE: 
 
 
