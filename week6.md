@@ -31,16 +31,16 @@ Working through challenges designed to help you learn how to use JavaScript in a
 #### Wednesday 22nd March
 - GOAL: start chanllenges on phase 2 
 - PLAN: go through the material
-- EVIDENCE: 
+- EVIDENCE: Created a repository for the challenges, link [here](https://github.com/ValeSer/Javascript-fundamentals-challenges)
 
 
 #### Thursday 23rd March
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: Go further on phase 2 
+- PLAN: Make as many challenges as possible 
+- EVIDENCE: repo link [here](https://github.com/ValeSer/Javascript-fundamentals-challenges)
 -----
-- GOAL: 
-- PLAN: 
+- GOAL: learn some more EQ skills
+- PLAN: Attend EQ workshop - Optimise team communication
 - EVIDENCE: 
 
 #### Friday 24th March
