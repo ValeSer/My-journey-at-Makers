@@ -41,15 +41,15 @@ Working through challenges designed to help you learn how to use JavaScript in a
 -----
 - GOAL: learn some more EQ skills
 - PLAN: Attend EQ workshop - Optimise team communication
-- EVIDENCE: 
+- EVIDENCE: Attended 
 
 #### Friday 24th March
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: learn how to use fetch
+- PLAN: Going through the materials challenges
+- EVIDENCE: Done some challenges: Thermostat, Poke'dex and started A Weather client
 -----
 
 #### Weekend 
 - GOAL: Test my understanding an learning so far
 - Plan: Attempt this challenge: https://github.com/makersacademy/bowling-challenge
-- EVIDENCE: 
+- EVIDENCE: Attempt the challenge, repo [here](https://github.com/makersacademy/bowling-challenge/pull/1590)
