@@ -33,9 +33,9 @@ Phase Four: Solo Challenge
 
 
 #### Wednesday 29th March
-- GOAL: Learn how to handle user interaction and form input
+- GOAL: Learn how to handle user interaction 
 - PLAN: use the materials and pairing session
-- EVIDENCE: 
+- EVIDENCE: paired with Leah, repo [here](https://github.com/leah-massey/Javascript_Frontend_Applications)
 
 #### Thursday 30th March
 - GOAL:
