@@ -24,17 +24,17 @@ Phase Four: Solo Challenge
 #### Monday 27th March
 - GOAL: start from the first step
 - PLAN: a simple counter example
-- EVIDENCE: 
+- EVIDENCE: Paired with Francesco and learned some basics going through the phase 1
 
 #### Tuesday 28th March
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: Learn to test-drive a NotesModel class and interacting with the page
+- PLAN: use the material and attend the workshop
+- EVIDENCE: Attended the workshop and went ahead with the materials 
 
 
 #### Wednesday 29th March
-- GOAL: 
-- PLAN: 
+- GOAL: Learn how to handle user interaction and form input
+- PLAN: use the materials and pairing session
 - EVIDENCE: 
 
 #### Thursday 30th March
