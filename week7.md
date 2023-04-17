@@ -1,4 +1,4 @@
-# Week 6
+# Week 7
 
 ## Weekly goals
 > By the end of the week all developers can:
@@ -38,21 +38,17 @@ Phase Four: Solo Challenge
 - EVIDENCE: paired with Leah, repo [here](https://github.com/leah-massey/Javascript_Frontend_Applications)
 
 #### Thursday 30th March
-- GOAL:
-- PLAN: 
-- EVIDENCE:
------
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL:finish phase 2
+- PLAN: use the materials and pairing session
+- EVIDENCE: paired with Konrad and finished phase 2
 
 #### Friday 31st March
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: test my learning
+- PLAN: have a review 
+- EVIDENCE: done my review n2
 -----
 
 #### Weekend 
 - GOAL: Test my understanding an learning so far
 - Plan: Attempt this challenge: https://github.com/makersacademy/frontend-api-challenge
-- EVIDENCE: 
+- EVIDENCE: repo [here](https://github.com/ValeSer/news-summary-challenge)
